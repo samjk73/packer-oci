@@ -1,0 +1,10 @@
+ { 
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaaaxlhuzmb2fr3h32bgfdfxiktlay3s6ja4xvkkp3kvub65nmksgjq",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaajog6nwofwkuhdmaa3efsywkiszqzlpn7mmaqbsxa2mryx6a6cxga",
+      "my.fingerprint": "2c:b7:56:c7:7f:d6:ff:0f:64:71:e8:ec:18:c4:0c:97",
+      "my.availability_domain": "IXZP:US-ASHBURN-AD-1",
+      "my.region": "us-ashburn-1",
+      "my.compartment_ocid": "ocid1.tenancy.oc1..aaaaaaaajog6nwofwkuhdmaa3efsywkiszqzlpn7mmaqbsxa2mryx6a6cxga",
+      "my.subnet_ocid": "ocid1.subnet.oc1.iad.aaaaaaaasoh27fmfl7surw7kek3p5m6ohae56qrdvf6epr236suxb7vzefua",
+      "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
+    }
